@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jdsen\\OneDrive\\OTHERS\\Documentos\\workspace_testes\\Teste_GlobalThings_Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB6947C-221D-40AE-A368-706835D10D66}|Teste_GlobalThings_Code.csproj|c:\\users\\jdsen\\onedrive\\others\\documentos\\workspace_testes\\teste_globalthings_code\\model\\vinculorequisicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB6947C-221D-40AE-A368-706835D10D66}|Teste_GlobalThings_Code.csproj|solutionrelative:model\\vinculorequisicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB6947C-221D-40AE-A368-706835D10D66}|Teste_GlobalThings_Code.csproj|c:\\users\\jdsen\\onedrive\\others\\documentos\\workspace_testes\\teste_globalthings_code\\model\\medicaosensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB6947C-221D-40AE-A368-706835D10D66}|Teste_GlobalThings_Code.csproj|solutionrelative:model\\medicaosensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB6947C-221D-40AE-A368-706835D10D66}|Teste_GlobalThings_Code.csproj|c:\\users\\jdsen\\onedrive\\others\\documentos\\workspace_testes\\teste_globalthings_code\\controllers\\vinculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB6947C-221D-40AE-A368-706835D10D66}|Teste_GlobalThings_Code.csproj|solutionrelative:controllers\\vinculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB6947C-221D-40AE-A368-706835D10D66}|Teste_GlobalThings_Code.csproj|c:\\users\\jdsen\\onedrive\\others\\documentos\\workspace_testes\\teste_globalthings_code\\controllers\\medicaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB6947C-221D-40AE-A368-706835D10D66}|Teste_GlobalThings_Code.csproj|solutionrelative:controllers\\medicaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB6947C-221D-40AE-A368-706835D10D66}|Teste_GlobalThings_Code.csproj|c:\\users\\jdsen\\onedrive\\others\\documentos\\workspace_testes\\teste_globalthings_code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB6947C-221D-40AE-A368-706835D10D66}|Teste_GlobalThings_Code.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VinculoController.cs",
+              "DocumentMoniker": "C:\\Users\\jdsen\\OneDrive\\OTHERS\\Documentos\\workspace_testes\\Teste_GlobalThings_Code\\Controllers\\VinculoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VinculoController.cs",
+              "ToolTip": "C:\\Users\\jdsen\\OneDrive\\OTHERS\\Documentos\\workspace_testes\\Teste_GlobalThings_Code\\Controllers\\VinculoController.cs",
+              "RelativeToolTip": "Controllers\\VinculoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T19:38:17.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VinculoRequisicao.cs",
+              "DocumentMoniker": "C:\\Users\\jdsen\\OneDrive\\OTHERS\\Documentos\\workspace_testes\\Teste_GlobalThings_Code\\Model\\VinculoRequisicao.cs",
+              "RelativeDocumentMoniker": "Model\\VinculoRequisicao.cs",
+              "ToolTip": "C:\\Users\\jdsen\\OneDrive\\OTHERS\\Documentos\\workspace_testes\\Teste_GlobalThings_Code\\Model\\VinculoRequisicao.cs",
+              "RelativeToolTip": "Model\\VinculoRequisicao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T19:37:19.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicaoController.cs",
+              "DocumentMoniker": "C:\\Users\\jdsen\\OneDrive\\OTHERS\\Documentos\\workspace_testes\\Teste_GlobalThings_Code\\Controllers\\MedicaoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedicaoController.cs",
+              "ToolTip": "C:\\Users\\jdsen\\OneDrive\\OTHERS\\Documentos\\workspace_testes\\Teste_GlobalThings_Code\\Controllers\\MedicaoController.cs",
+              "RelativeToolTip": "Controllers\\MedicaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T19:28:34.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jdsen\\OneDrive\\OTHERS\\Documentos\\workspace_testes\\Teste_GlobalThings_Code\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jdsen\\OneDrive\\OTHERS\\Documentos\\workspace_testes\\Teste_GlobalThings_Code\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T19:26:30.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedicaoSensor.cs",
+              "DocumentMoniker": "C:\\Users\\jdsen\\OneDrive\\OTHERS\\Documentos\\workspace_testes\\Teste_GlobalThings_Code\\Model\\MedicaoSensor.cs",
+              "RelativeDocumentMoniker": "Model\\MedicaoSensor.cs",
+              "ToolTip": "C:\\Users\\jdsen\\OneDrive\\OTHERS\\Documentos\\workspace_testes\\Teste_GlobalThings_Code\\Model\\MedicaoSensor.cs",
+              "RelativeToolTip": "Model\\MedicaoSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T18:01:51.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 389,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

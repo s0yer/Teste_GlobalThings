@@ -1,0 +1,6 @@
+@Teste_GlobalThings_Code_HostAddress = http://localhost:5000
+
+GET {{Teste_GlobalThings_Code_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
